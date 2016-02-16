@@ -1,0 +1,64 @@
+.list-aexid li::before {
+	content:'-';
+	padding-right: 10px;
+}
+
+.inscription-formation.top {
+	background-color: #fff;
+	padding-top: 10px;
+	padding-bottom:40px;
+}
+
+.inscription-formation.bottom {
+	background-color: #F4F4F4;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+footer.details .logo {
+	margin-bottom: 3px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+footer.details .logo {
+	margin-bottom: 20px;
+}
+
+footer.details h2 {
+	margin-bottom: 18px;
+}
+
+a {
+	color:#e74c3c;
+}
+a:hover {
+	color:#a03328;
+}
+
+a.active {
+	text-decoration: underline;
+}
+
+.promo-banner {
+	display: block;
+	background: #F32F00;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	font-weight:700;
+}
+
+.promo-banner:hover {
+	color: white;
+}
+
+@media (max-width: 992px) {
+	.promo-banner {
+		font-size: 18px;
+	}
+}
