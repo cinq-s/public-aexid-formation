@@ -51,6 +51,90 @@ span.warning {
   color: #FF0000;
 }
 
+
+.background-cart {
+  background-color: #fff !important;
+  margin-bottom: 30px;
+}
+
+.cart {
+  margin-top: 50px;
+}
+
+.title-cart {
+  font-weight: 500;
+  font-size: 24px;
+  font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #111
+}
+
+.form-cart {
+  border-bottom: 1px solid #DDD;
+  margin-top: 20px;
+  font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-bottom: 5px;
+}
+
+.content-cart {
+  border-bottom: 1px solid #DDD;
+  padding-bottom: 20px;
+}
+
+.article-cart {
+  color: #000;
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+.total-cart {
+  padding-bottom: 20px;
+  color: #000;
+  font-size: 18px;
+  margin-top: 15px;
+  font-weight: 700;
+}
+
+.right {
+  text-align: right;
+}
+
+.green {
+  color: green;
+}
+
+.checkout-btn {
+  border: none;
+  display: inline-block;
+  background: #22C0DF;
+  color: #fff;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 14px 28px 13px 28px;
+}
+
+.checkout-btn:hover {
+  color: #fff;
+  background-color: #1DACC8;
+}
+
+.checkout-btn:active {
+  -moz-box-shadow: inset 0px 3px 5px 0px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0px 3px 5px 0px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: inset 0px 3px 5px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0px 3px 5px 0px rgba(0, 0, 0, 0.2);
+  filter:progid:DXImageTransform.Microsoft.Shadow(color=#0E6E81, Direction=180, Strength=5);
+}
+
+.second {
+  margin-top: 20px;
+}
+
+.promo {
+  color: red;
+  font-weight: 600;
+}
+
 .vtc-carte {
   display: block;
   margin-left: auto;
