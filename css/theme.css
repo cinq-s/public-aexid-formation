@@ -135,6 +135,11 @@ span.warning {
   font-weight: 600;
 }
 
+.stripe {
+  margin-bottom: 5px;
+  height: 30px;
+}
+
 .vtc-carte {
   display: block;
   margin-left: auto;
